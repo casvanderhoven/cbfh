@@ -1,0 +1,9 @@
+baseURL = "https://casvanderhoven.github.io"
+languageCode = "en-us"
+title = "Cas van der Hoven"
+theme = "onetwothree"
+
+[params]
+    twitter = "casvanderhoven"
+    navigation = ["about.md"]
+    style = ""
